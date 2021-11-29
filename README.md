@@ -35,50 +35,27 @@ School Summary Post-Code refactoring -
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Summary.png)
 
-
-
-
+As we can see the average math score decreased by 0.01 , % math score decreased by 0.01 , % reading score decreased by 0.01 and % overall passing score decreased by 0.03. 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre%20Math%20Scores%20by%20Grade.png)
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20change%20Math%20Scores%20by%20Grade.png)
+
+The major change is a NAN value for Grade 9 Students in Thomas High School due to irregularities in their final testing. 
+
+How  has replacing the ninth-grade scores affected the data in the following areas:
+Math and reading scores by grade - No changes in any of the other School's data. The only change has been for Thomas High School where there is no data for the 9th grade for Math or reading subjects. 
 Scores by school spending
 Scores by school size
 Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (7 points)
-The written analysis has the following structure, organization, and formatting:
 
-There is a title, and there are multiple sections (2 pt).
-Each section has a heading and subheading (3 pt).
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (18 points)
-The written analysis has the following:
+On
 
-Overview of the school district analysis:
+## Statement 
 
-The purpose of this analysis is well defined (3 pt).
-Results:
+The changes have made very minor changes to the overall scores of Thomas High School between 0.1 and 0.03 percentage points. The district data has seem negligible changes which do not show up even if looking at the data up to the 2nd decimal place. 
 
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-As a reminder, the deliverables for this Challenge are as follows:
-
-Deliverable 1: Replace ninth-grade reading and math scores
-Deliverable 2: Repeat the school district analysis
-Deliverable 3: A written report for the school district analysis (README.md)
-Upload the following to your School_District_Analysis GitHub repository:
-
-The PyCitySchools_Challenge.ipynb file.
-The Resources folder with the schools_complete.csv and students_complete.csv files.
-An updated README.md that has your written analysis.
-To submit your challenge assignment in Canvas, click Submit, then provide the URL of your School_District_Analysis GitHub repository for grading. Comments are disabled for graded submissions in BootCampSpot. If you have questions about your feedback, please notify your instructional staff or the Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Re-Submit Assignment button to upload new links. You may resubmit up to 3 times for a total of 4 submissions.
-
-IMPORTANT
