@@ -12,7 +12,7 @@ The school board had notified Maria (the client) and her supervisor that the stu
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-Affect on district summary -
+##3 Affect on district summary -
 
 District Summary Pre-Code refactoring - 
 
@@ -25,7 +25,7 @@ District Summary Post-Code refacroting -
 
 As we can see the average Math score has decreased by 0.01, the % passing Math has dropped by 0.02, the % passing reading has dropped by 0.03 and the % Overall students passing has dropped by 0.01. 
 
-Affect on School Summary - 
+### Affect on School Summary - 
 
 School Summary Pre-Code refactoring - 
 
