@@ -75,7 +75,7 @@ Post Code ReFactoring
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Size%20Summary.png)
 
-The changes are ver minor with a difference of 0.1 - 0.3 across the subjects scores and % passed. 
+The changes are ver minor and have only affected Medium School Sizes. We only see an increase with average reading score after refactoring the code with the rest all showing a decrease under 0.1 percentile. 
 
 
 ### Scores by school type - 
@@ -88,7 +88,7 @@ Post Code Refactoring
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Type.png)
 
-The changes are ver minor with a difference of 0.1 - 0.3 across the subjects scores and % passed. 
+The changes are ver minor and only affected Charter School Types. We only see a slight increase with average reading score after refactoring the code with the rest all showing a decrease under 0.1 percentile. 
 
 
 ## Statement 
