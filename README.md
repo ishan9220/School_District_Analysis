@@ -16,7 +16,7 @@ How is the district summary affected?
 
 District Summary Pre-code refactoring - 
 
-!(https://github.com/ishan9220/School_District_Analysis/blob/main/Pre-Summary.png)
+![District Summary Pre-code refactoring](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre-Summary.png)
 
 
 District Summary Post-code refacroting - 
