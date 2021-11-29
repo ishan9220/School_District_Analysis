@@ -21,7 +21,7 @@ District Summary Pre-code refactoring -
 
 District Summary Post-code refacroting - 
 
-!(https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20District_Summary.png)
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20District_Summary.png)
 
 
 
