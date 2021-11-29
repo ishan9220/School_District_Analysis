@@ -43,21 +43,17 @@ As we can see the average math score decreased by 0.01 ,
 % reading score decreased by 0.01 and 
 % overall passing score decreased by 0.03. 
 
-### Thomas High School Performance Relative to other Schools 
+### Thomas High School Performance Relative to other Schools and affect on  9th Grade Data
 
 Replacing the ninth graders’ math and reading scores for Thomas High School has made very small changes to their overall performance as compared to other schools. 
 The major change is a NAN value for Grade 9 Students in Thomas High School due to irregularities in their final testing. 
-
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre%20Math%20Scores%20by%20Grade.png)
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20change%20Math%20Scores%20by%20Grade.png)
 
-### Affect of ninth Grade Data 
 
-Math and reading scores by grade - The only change has been for Thomas High School's ninth grade where there is no data for the 9th grade for Math or reading subjects. 
-
-Scores by school spending -
+### Scores by school spending -
 
 Pre Code Refactoring 
 
@@ -68,8 +64,19 @@ Post Code Refactoring
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20Spending%20Summary.png)
 
 
-Scores by school size - 
-Scores by school type - 
+### Scores by school size - 
+
+Pre Code Factoring 
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre%20School%20Size%20Summary.png)
+
+
+Post Code Factoring 
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Size%20Summary.png)
+
+
+### Scores by school type - 
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
