@@ -24,9 +24,9 @@ District Summary Post-Code refacroting -
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20District_Summary.png)
 
 As we can see the average Math score has decreased by 0.1, 
-the % passing Math has dropped by 0.01, 
+the % passing Math has dropped by 0.1, 
 the % passing reading has dropped by 0.3 and 
-the % Overall students passing has dropped by 0.3. 
+the % Overall students passing has dropped by 0.1. 
 
 ### Affect on School Summary - 
 
@@ -66,23 +66,32 @@ Post Code Refactoring
 
 ### Scores by school size - 
 
-Pre Code Factoring 
+Pre Code ReFactoring 
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre%20School%20Size%20Summary.png)
 
 
-Post Code Factoring 
+Post Code ReFactoring 
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Size%20Summary.png)
 
-The changes are ver minor with a difference of 0.1 - 0.3 across the subhects scores and % passed. 
+The changes are ver minor with a difference of 0.1 - 0.3 across the subjects scores and % passed. 
 
 
 ### Scores by school type - 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Pre Code Refactoring 
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre%20Scores%20by%20School%20Type.png)
+
+Post Code Refactoring 
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Type.png)
+
+The changes are ver minor with a difference of 0.1 - 0.3 across the subjects scores and % passed. 
+
 
 ## Statement 
 
-The changes have made very minor changes to the overall scores of Thomas High School between 0.1 and 0.03 percentage points. The district data has seem negligible changes which do not show up even if looking at the data up to the 2nd decimal place. 
+The changes have made very minor decreases to the overall scores of Thomas High School between 0.1 and 0.3 percentage points. 
 
