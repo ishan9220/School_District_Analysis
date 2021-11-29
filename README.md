@@ -23,10 +23,10 @@ District Summary Post-Code refacroting -
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20District_Summary.png)
 
-As we can see the average Math score has decreased by 0.01, 
-the % passing Math has dropped by 0.02, 
-the % passing reading has dropped by 0.03 and 
-the % Overall students passing has dropped by 0.01. 
+As we can see the average Math score has decreased by 0.1, 
+the % passing Math has dropped by 0.01, 
+the % passing reading has dropped by 0.3 and 
+the % Overall students passing has dropped by 0.3. 
 
 ### Affect on School Summary - 
 
@@ -38,10 +38,10 @@ School Summary Post-Code refactoring -
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Summary.png)
 
-As we can see the average math score decreased by 0.01 ,
- % math score decreased by 0.01 , 
-% reading score decreased by 0.01 and 
-% overall passing score decreased by 0.03. 
+As we can see the average math score decreased by 0.1 ,
+ % math score decreased by 0.1 , 
+% reading score decreased by 0.1 and 
+% overall passing score decreased by 0.3. 
 
 ### Thomas High School Performance Relative to other Schools and affect on  9th Grade Data
 
@@ -74,6 +74,8 @@ Pre Code Factoring
 Post Code Factoring 
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Size%20Summary.png)
+
+The changes are ver minor with a difference of 0.1 - 0.3 across the subhects scores and % passed. 
 
 
 ### Scores by school type - 
