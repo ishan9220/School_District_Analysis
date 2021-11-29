@@ -12,20 +12,33 @@ The school board had notified Maria (the client) and her supervisor that the stu
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+Affect on district summary -
 
-District Summary Pre-code refactoring - 
+District Summary Pre-Code refactoring - 
 
 ![District Summary Pre-code refactoring](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre-Summary.png)
 
 
-District Summary Post-code refacroting - 
+District Summary Post-Code refacroting - 
 
 ![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20District_Summary.png)
 
+As we can see the average Math score has decreased by 0.01, the % passing Math has dropped by 0.02, the % passing reading has dropped by 0.03 and the % Overall students passing has dropped by 0.01. 
+
+Affect on School Summary - 
+
+School Summary Pre-Code refactoring - 
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Pre%20Summary%20by%20Schools%20(final).png)
+
+School Summary Post-Code refactoring - 
+
+![](https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20School%20Summary.png)
 
 
-How is the school summary affected?
+
+
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
