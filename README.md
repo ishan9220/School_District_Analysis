@@ -12,11 +12,18 @@ The school board had notified Maria (the client) and her supervisor that the stu
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-Original Marks for Thomas High School before altering scores - 
-
-
-
 How is the district summary affected?
+
+District Summary Pre-code refactoring - 
+
+![https://github.com/ishan9220/School_District_Analysis/blob/main/Pre-Summary.png]
+
+
+District Summary Post-code refacroting - 
+
+![https://github.com/ishan9220/School_District_Analysis/blob/main/Post%20District_Summary.png]
+
+
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
